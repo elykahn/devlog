@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: 'ely.io / devBlog', // Required
+  author: 'Ely Kahn', // Required
+  description: 'Designer/Dev/Creative Technologist',
+  primaryColor: '#347ea6', // Required
   showHeaderImage: true,
-  showShareButtons: true,
-  postsPerPage: 5, // Required
+  showShareButtons: false,
+  postsPerPage: 8, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://ely.io',
+    github: 'https://github.com/elykahn',
+    twitter: 'https://twitter.com/creativ_ely',
+    linkedin: 'https://linkedin.com/in/elykahndesign',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://ely.io/devblog/',
 };
