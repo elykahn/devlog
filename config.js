@@ -1,7 +1,7 @@
 module.exports = {
   title: 'ely.io / devBlog', // Required
-  author: 'Ely Kahn', // Required
-  description: 'Designer/Dev/Creative Technologist',
+  author: 'ely kahn', // Required
+  description: 'designer/dev/creative technologist',
   primaryColor: '#347ea6', // Required
   showHeaderImage: true,
   showShareButtons: false,
