@@ -1,9 +1,10 @@
 import styled from 'styled-components';
 
 const Card = styled.div`
-  background: #fff;
-  border: 1px solid #e0e6ed;
-  box-shadow: 0 1px 5px rgba(0,0,0,0.05);
+  background: #347ea6;
+  border-radius: 10px;
+  box-shadow: -11px 11px 46px #2235671,
+11px -11px 46px #45a6db;
   margin-bottom: 30px;
   padding: 75px 100px;
 
